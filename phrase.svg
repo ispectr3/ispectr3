@@ -1,0 +1,51 @@
+<svg width="800" height="36" viewBox="0 0 800 36" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="36" fill="#0d1117"/>
+
+  <defs>
+    <linearGradient id="tg" x1="0%" y1="0%" x2="100%" y2="0%" gradientUnits="objectBoundingBox">
+      <stop offset="0%"   stop-color="#FC466B"/>
+      <stop offset="50%"  stop-color="#FC466B"/>
+      <stop offset="100%" stop-color="#C471ED"/>
+    </linearGradient>
+
+    <linearGradient id="fl" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#0d1117" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#0d1117" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="fr" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#0d1117" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#0d1117" stop-opacity="1"/>
+    </linearGradient>
+  </defs>
+
+  <g>
+    <animateTransform
+      attributeName="transform"
+      type="translate"
+      from="0 0"
+      to="-500 0"
+      dur="13s"
+      repeatCount="indefinite"/>
+
+    <text x="100" y="24"
+      font-family="'Lucida Console', Monaco, 'Courier New', monospace"
+      font-size="13"
+      font-style="italic"
+      fill="url(#tg)"
+      letter-spacing="3">
+      &#8220;The closer you look, the less you see.&#8221;
+    </text>
+
+    <text x="600" y="24"
+      font-family="'Lucida Console', Monaco, 'Courier New', monospace"
+      font-size="13"
+      font-style="italic"
+      fill="url(#tg)"
+      letter-spacing="3">
+      &#8220;The closer you look, the less you see.&#8221;
+    </text>
+  </g>
+
+  <rect x="0"   y="0" width="90" height="36" fill="url(#fl)"/>
+  <rect x="710" y="0" width="90" height="36" fill="url(#fr)"/>
+</svg>
