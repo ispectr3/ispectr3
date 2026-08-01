@@ -4,7 +4,7 @@
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=py,go,bash,c,ts,js,docker,kali,postgres,mysql,pytorch,git&theme=dark&perline=6" height="52"/>
+<img src="https://skillicons.dev/icons?i=py,go,bash,c,ts,js,docker,kali,postgres,mysql,pytorch,git&theme=dark&perline=6" height="75"/>
 
 <br/><br/>
 
