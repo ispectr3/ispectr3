@@ -25,6 +25,9 @@
 - **[hashcracker](https://github.com/ispectr3/hashcracker)** — Hash identifier and cracker in Go supporting MD5, SHA1, SHA256, SHA512 and dictionary/brute-force modes.
 - **[stegano](https://github.com/ispectr3/stegano)** — LSB steganography tool in Go for embedding encrypted messages in PNG images.
 
+### DevOps & Infrastructure
+- **[docker-lab](https://github.com/ispectr3/docker-lab)** — Practical Docker laboratory and CLI cheatsheet with Dockerfile, Compose stack and essential commands.
+
 ### Recon & Threat Intelligence
 - **[subdomain-enumerator](https://github.com/ispectr3/subdomain-enumerator)** — Subdomain enumeration tool in Bash leveraging crt.sh and parallel DNS resolution.
 - **[Recon](https://github.com/ispectr3/Recon)** — Three-pillar reconnaissance suite for JS asset analysis, secret scanning and endpoint discovery.
@@ -51,6 +54,9 @@
 - **[hashcracker](https://github.com/ispectr3/hashcracker)** — Identificador e quebrador de hashes em Go com suporte a MD5, SHA1, SHA256, SHA512 e modos dicionário/brute-force.
 - **[stegano](https://github.com/ispectr3/stegano)** — Ferramenta de esteganografia LSB em Go para embutir mensagens criptografadas em imagens PNG.
 
+### DevOps & Infraestrutura
+- **[docker-lab](https://github.com/ispectr3/docker-lab)** — Laboratório prático de Docker e cheatsheet CLI contendo exemplos de Dockerfile, Docker Compose e comandos essenciais.
+
 ### Reconhecimento & Inteligência de Ameaças
 - **[subdomain-enumerator](https://github.com/ispectr3/subdomain-enumerator)** — Ferramenta de enumeração de subdomínios em Bash utilizando crt.sh e resolução DNS paralela.
 - **[Recon](https://github.com/ispectr3/Recon)** — Suíte de reconhecimento em três pilares para análise de ativos JS, varredura de segredos e descoberta de endpoints.
@@ -62,7 +68,7 @@
 - **[Jazz](https://github.com/ispectr3/Jazz)** — Plataforma de testes de invasão multi-agente orquestrando 8 agentes de IA para consulta de CVEs e análise de vulnerabilidades.
 - **[Sintetiza](https://github.com/ispectr3/Sintetiza)** — Assistente de IA para busca semântica e extração de trechos exatos com marcação de tempo em vídeos do YouTube e podcasts.
 - **[RadarConcursos](https://github.com/ispectr3/RadarConcursos)** — Monitor assíncrono de editais de concursos públicos com scraping, enriquecimento de conteúdo e alertas via Telegram e e-mail.
-- **[credit-card-churn-prediction](https://github.com/ispectr3/credit-card-churn-prediction)** — Modelo de Machine Learning ponta a ponta para previsão de cancelamento de clientes usando Random Forest e SHAP values.
+- **[credit-card-churn-prediction](https://github.com/ispectr3/credit-card-churn-prediction)** — Modelo de Machine Learning ponta a ponta para previsão de cancelamento de clientes usando Random Forest dan SHAP values.
 
 ---
 
