@@ -68,6 +68,8 @@
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ispectr3&show_icons=true&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats-fast.vercel.app/api?username=ispectr3&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ispectr3&theme=dark&hide_border=true" alt="GitHub Streak" />
 
 </div>
